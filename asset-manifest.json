@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/online-yoga-training/static/css/main.75ca8c2a.css",
+    "main.js": "/online-yoga-training/static/js/main.77bb98ed.js",
+    "static/js/787.eeb66d39.chunk.js": "/online-yoga-training/static/js/787.eeb66d39.chunk.js",
+    "static/media/home-yoga-hero-bg.jpg": "/online-yoga-training/static/media/home-yoga-hero-bg.f4f9c6585d372eefb104.jpg",
+    "static/media/home-yoga-welcome-image-02.png": "/online-yoga-training/static/media/home-yoga-welcome-image-02.b68cd7d2771b32c873a7.png",
+    "static/media/home-yoga-welcome-image.png": "/online-yoga-training/static/media/home-yoga-welcome-image.173598af1f463f4e6b3e.png",
+    "static/media/home-yoga-about-image.jpg": "/online-yoga-training/static/media/home-yoga-about-image.92a57cef8aad066d04bb.jpg",
+    "index.html": "/online-yoga-training/index.html",
+    "main.75ca8c2a.css.map": "/online-yoga-training/static/css/main.75ca8c2a.css.map",
+    "main.77bb98ed.js.map": "/online-yoga-training/static/js/main.77bb98ed.js.map",
+    "787.eeb66d39.chunk.js.map": "/online-yoga-training/static/js/787.eeb66d39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75ca8c2a.css",
+    "static/js/main.77bb98ed.js"
+  ]
+}
